@@ -62,12 +62,18 @@ header h4 {
     font-size: 45px;
     text-align: center;
     margin-bottom: 30px;
+	  color: snow;
   }
   header h4 {
     font-family: 'Pacifico';
     text-align: center;
     padding: 15px;
+	  color: snow;
+	  margin-top: 50px;
   }
+header{
+	height: 200px;
+}
   #no{
     position: absolute;
     display: inline-block;
